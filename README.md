@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - 🌱  I am currently looking to collaborate on Web Projects
 
-<a href = https://www.linkedin.com/in/ayush-bhargava2205/<img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/ayushbhargava22><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+<a href = https://www.linkedin.com/in/ayush-bhargava2205/><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/ayushbhargava22><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
