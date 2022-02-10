@@ -15,21 +15,16 @@ Here are some ideas to get you started:
 👋 Hi there! My name is 
 # **Ayush Bhargava**
 
-![Github](https://img.shields.io/github/followers/stephenleo?style=social) 
-[![dev.to badge](https://img.shields.io/badge/-Marie%20Stephen%20Leo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marie-stephen-leo/) 
-[![dev.to badge](https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium)](https://stephen-leo.medium.com/)
-[![dev.to badge](https://img.shields.io/badge/-🤗%20Huggingface%20Space-blue?style=flat)](https://huggingface.co/stephenleo)
+![Github](https://img.shields.io/github/followers/ayushbhargava22?style=social) 
+[![dev.to badge](https://img.shields.io/badge/-Marie%20Stephen%20Leo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-bhargava2205/) 
 
-- ⚡ I'm currently the Director of Data Science APAC at [Edelman](https://www.edelman.com/), the world's largest Public Relations firm.
-- ❤️ My passion and areas of expertise are Natural Language Processing, Computer Vision and Cloud Computing.
-- 🦄 I've developed entire Data products end-end (Algorithms, Data Engineering, Backend, Microservice middle layer and Frontend) in the Python and AWS/GCP ecosystems.
-- 🔥 I'm also a part time Data Science Instructor at General Assembly.
-- ✍️ In my free time I'm a Freelance Technical Writer. I've achieved "Top writer in Artificial Intelligence" on Medium several times.
-- 🔭 I’m currently researching and writing blog posts on Semantic Similarity Search for [Zilliz](https://zilliz.com/).
-- ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at [Micron](https://www.micron.com/) (Fortune500 US Semiconductor Manufacturing company).
+- ⚡ I'm currently the Frontend Engineer and Undergrad.
+- ❤️ My passion and areas of expertise are Frontend development , Backend development , UI/UX.
+- 🔥 I'm also a part time ACM Society in college.
+- ✍️ In my free time I love to to CP . I've participated in many different contest.
 
 ## 🏆 My Github Stats:
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenleo&hide_title=true&count_private=true&show_icons=true&theme=tokyonight)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushbhargava22&hide_title=true&count_private=true&show_icons=true&theme=tokyonight)
 
 ## 🏅 My Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenleo&hide_title=true&hide=jupyter%20notebook&compat=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbhargava22&hide_title=true&hide=jupyter%20notebook&compat=true&theme=tokyonight)
