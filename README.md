@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # **Ayush Bhargava**
 
 ![Github](https://img.shields.io/github/followers/ayushbhargava22?style=social) 
-[![dev.to badge](https://img.shields.io/badge/-Marie%20Stephen%20Leo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-bhargava2205/) 
+[![dev.to badge](https://img.shields.io/badge/-ayushbhargava22-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-bhargava2205/) 
 
 - ⚡ I'm currently the Frontend Engineer and Undergrad.
 - ❤️ My passion and areas of expertise are Frontend development , Backend development , UI/UX.
