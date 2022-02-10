@@ -1,16 +1,9 @@
-### Hi there 👋
-# Hey 👋, This is Ayush Bhargava
-### About me 🤓
-A tech enthusiast with passion to solve problems and to make things. Proven skills in Web application development, competitive programming, UI/UX Design with work experience in various organisations and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
-
 <!--
-**ayushbhargava22/ayushbhargava22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**Skills:** HTML | JavaScript | React | Figma | Node.js | CSS | Mongo.db
+**stephenleo/stephenleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 💼 I am currently working Startup projects
 
-- 🔭 I’m currently working on ... react
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,8 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ✍️ I am currently learning Node.js
+👋 Hi there! My name is 
+# **Ayush Bhargava**
 
-- 🌱  I am currently looking to collaborate on Web Projects
+![Github](https://img.shields.io/github/followers/stephenleo?style=social) 
+[![dev.to badge](https://img.shields.io/badge/-Marie%20Stephen%20Leo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marie-stephen-leo/) 
+[![dev.to badge](https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium)](https://stephen-leo.medium.com/)
+[![dev.to badge](https://img.shields.io/badge/-🤗%20Huggingface%20Space-blue?style=flat)](https://huggingface.co/stephenleo)
 
-<a href = https://www.linkedin.com/in/ayush-bhargava2205/><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/ayushbhargava22><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+- ⚡ I'm currently the Director of Data Science APAC at [Edelman](https://www.edelman.com/), the world's largest Public Relations firm.
+- ❤️ My passion and areas of expertise are Natural Language Processing, Computer Vision and Cloud Computing.
+- 🦄 I've developed entire Data products end-end (Algorithms, Data Engineering, Backend, Microservice middle layer and Frontend) in the Python and AWS/GCP ecosystems.
+- 🔥 I'm also a part time Data Science Instructor at General Assembly.
+- ✍️ In my free time I'm a Freelance Technical Writer. I've achieved "Top writer in Artificial Intelligence" on Medium several times.
+- 🔭 I’m currently researching and writing blog posts on Semantic Similarity Search for [Zilliz](https://zilliz.com/).
+- ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at [Micron](https://www.micron.com/) (Fortune500 US Semiconductor Manufacturing company).
+
+## 🏆 My Github Stats:
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenleo&hide_title=true&count_private=true&show_icons=true&theme=tokyonight)
+
+## 🏅 My Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenleo&hide_title=true&hide=jupyter%20notebook&compat=true&theme=tokyonight)
